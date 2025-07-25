@@ -1,9 +1,32 @@
-약 40일 TeamProject  <br>
-효찬, 지호, 동건, 아름, 한나 좌충우돌 Full stack developer 도전기 <br>
-주제 : 호텔 시스템관리(사용자 중점) <br>
-<br>
-※ 중요전달 사항 ※ <br>
-  ● 안된다고 손놓지 말고 방법을 찾고 해결하자 <br>
-  ● 정말 이건 해도 안되겠다 싶으면 이야기하자 <br>
-  ● 부족하고 아쉬워도 결과물은 무조건 나오게 하자 <br>
-  ● 1일 1개 게시판 만든다고 생각하자(그럼 마음이 편해짐) <br>
+# 프로젝트명
+
+한줄 설명을 여기에 작성하세요.
+
+---
+
+## 목차
+- [사용기술](#사용기술)
+- [주요기능](#주요기능)
+- [시연순서](#시연순서)
+
+---
+
+## 사용기술
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) , <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+- 기술 2
+- 기술 3
+
+---
+
+## 주요기능
+- 기능 1
+- 기능 2
+- 기능 3
+
+---
+
+## 시연순서
+1. 시연 단계 1
+2. 시연 단계 2
+3. 시연 단계 3
+
