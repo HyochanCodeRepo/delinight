@@ -6,7 +6,7 @@
 
 ## 목차
 - [프로젝트 개요](#프로젝트개요)
-- [기술 스택](#기술스택)
+- [개발 환경](#개발환경)
 - [주요기능](#주요기능)
 
 ---
@@ -19,10 +19,18 @@
 
 ---
 
-## 기술스택
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) , <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-- 기능 2
-- 기능 3
+## 개발환경
+개발 환경
+사용 언어
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+-  
+프레임워크
+  - 기능 2
+데이터베이스
+  - <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+
 
 ---
 
