@@ -11,8 +11,15 @@
 
 역할 및 기여도
 
-시연 영상
----
+**시연 URL**
+어드민 계정
+http://wooriproject.iptime.org:9003/members/account/login
+시연용 > 어드민(hotel1-1@test.com) 로그인
+
+유저 계정(모바일 환경)
+http://wooriproject.iptime.org:9003/users/login
+ID : livestrong91@naver.com
+PW : Test!234
 
 ✒️ 프로젝트 소개
 개요
@@ -27,9 +34,7 @@
 **주요 내용**
 본 프로젝트는 호텔 관리의 디지털 전환을 목표로 개발되었습니다. 관리자에게는 전반적인 호텔 운영을 효율적으로 관리할 수 있는 시스템을, 고객에게는 모바일 기기를 통해 체크인, 룸 서비스, 룸 케어 등 다양한 서비스를 간편하게 이용할 수 있는 환경을 제공합니다.
 
-**시연 URL**
-http://wooriproject.iptime.org:9003/members/account/login
-시연용 > 어드민(hotel1-1@test.com) 로그인
+
 
 **✨ 주요 기능**
 👨‍💼 관리자 시스템
